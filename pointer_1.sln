@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pointer_2", "pointer_2\poin
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "friendclass_1", "friendclass_1\friendclass_1.vcxproj", "{941D72E0-5060-4698-884D-CD89CBA37619}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "friendclass_2", "friendclass_2\friendclass_2.vcxproj", "{C3740BAF-D972-4774-A1CC-F4B093F80395}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{941D72E0-5060-4698-884D-CD89CBA37619}.Release|x64.Build.0 = Release|x64
 		{941D72E0-5060-4698-884D-CD89CBA37619}.Release|x86.ActiveCfg = Release|Win32
 		{941D72E0-5060-4698-884D-CD89CBA37619}.Release|x86.Build.0 = Release|Win32
+		{C3740BAF-D972-4774-A1CC-F4B093F80395}.Debug|x64.ActiveCfg = Debug|x64
+		{C3740BAF-D972-4774-A1CC-F4B093F80395}.Debug|x64.Build.0 = Debug|x64
+		{C3740BAF-D972-4774-A1CC-F4B093F80395}.Debug|x86.ActiveCfg = Debug|Win32
+		{C3740BAF-D972-4774-A1CC-F4B093F80395}.Debug|x86.Build.0 = Debug|Win32
+		{C3740BAF-D972-4774-A1CC-F4B093F80395}.Release|x64.ActiveCfg = Release|x64
+		{C3740BAF-D972-4774-A1CC-F4B093F80395}.Release|x64.Build.0 = Release|x64
+		{C3740BAF-D972-4774-A1CC-F4B093F80395}.Release|x86.ActiveCfg = Release|Win32
+		{C3740BAF-D972-4774-A1CC-F4B093F80395}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
