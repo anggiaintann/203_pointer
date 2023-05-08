@@ -16,3 +16,5 @@ public:
 	}
 	friend void manusia::showNilaiPelajar(pelajar& x);
 };
+
+void manusia::showNilaiPelajar(pelajar& x) {
